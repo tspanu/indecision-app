@@ -15,4 +15,4 @@ Tools: React, Redux, React-Router, Babel, Parcel-Bundler
 
 ### Screenshot
 
-![React-Image](https://github.com/tspanu/react-demo/blob/master/src/images/indecision-screenshot.png)
+![React-Image](https://github.com/tspanu/react-demo/blob/master/src/images/indecision-app-demo.gif)
