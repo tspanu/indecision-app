@@ -13,6 +13,6 @@ Tools: React, Redux, React-Router, Babel, Parcel-Bundler
 3. $ npm i
 4. $ npm run dev
 
-### Screenshot
+### Demo
 
 ![React-Image](https://github.com/tspanu/react-demo/blob/master/src/images/indecision-app-demo.gif)
